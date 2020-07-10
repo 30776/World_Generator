@@ -11,7 +11,7 @@ We probably don't want to simulate each individual person individually, but that
 ## What the people might do:
 
  * Collect and/or eat food and water
- * build structures
+ * build [structures](settlements.md)
 	 - houses
 	 - roads
 	 - possibly boats?
@@ -19,4 +19,5 @@ We probably don't want to simulate each individual person individually, but that
  * entertain an audience?
  * pass on information?
  * explore?
+	 - look at 
 

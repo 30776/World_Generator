@@ -1,10 +1,10 @@
 # Assumptions:
 
-The actual landscape is there. And not only do we have the height of the various places, we also have the areas categorised in some [manner](categories.md).
+The actual landscape is there. And not only do we have the height of the various places, we also have the areas categorised in some [manner](land.md).
 
 # Results
 
-The people will need resources. Water is the most important, but food is quite high on the list, as well as shelter (note: caves? probably makes the inputs too complicated). 
+The [people](people.md) will need resources. Water is the most important, but food is quite high on the list, as well as shelter (note: caves? probably makes the inputs too complicated). 
 
 Now, we could allow the construction of shelter for free, or we could not.
 
