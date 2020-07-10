@@ -8,4 +8,15 @@ The settlements will be made by people. Or ants. You decide.
 
 We probably don't want to simulate each individual person individually, but that might actually be easier.
 
+## What the people might do:
+
+ * Collect and/or eat food and water
+ * build structures
+	 - houses
+	 - roads
+	 - possibly boats?
+	 - dams??
+ * entertain an audience?
+ * pass on information?
+ * explore?
 
