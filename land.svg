@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="62cm" height="19cm" viewBox="-2 -1 1235 370" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="62cm" height="35cm" viewBox="-2 -1 1235 682" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g id="Background">
     <g>
       <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="14.5588,0 148.832,0 134.274,40 0,40 "/>
@@ -76,6 +76,36 @@
     <g>
       <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 404.635 80 C 420,140 1100,120 1105.11,195.538"/>
       <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1099.6,188.13 1105.27,197.769 1109.58,187.454 "/>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="604,426 756,426 680,534 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="441">
+        <tspan x="680" y="441">merge into</tspan>
+        <tspan x="680" y="457">one rgb</tspan>
+        <tspan x="680" y="473">image</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 142.611 280 C 140,420 680,360 680,421.528"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="675,413.764 680,423.764 685,413.764 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 639.583 313.333 C 640,340 680,380 680,421.528"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="675,413.764 680,423.764 685,413.764 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 1105.42 366.667 C 1120,440 680,380 680,421.528"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="675,413.764 680,423.764 685,413.764 "/>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="614.559,640 820.082,640 805.524,680 600,680 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="710.041" y="663.9">
+        <tspan x="710.041" y="663.9">clasified image for civilising</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 680 534 C 680,640 720,540 717.44,635.529"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="712.65,627.634 717.38,637.765 722.647,627.902 "/>
     </g>
   </g>
 </svg>
