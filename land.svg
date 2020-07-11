@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="118cm" height="49cm" viewBox="19 -121 2351 961" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="122cm" height="51cm" viewBox="19 -171 2429 1011" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g id="Background">
     <rect style="fill: none; stroke-opacity: 1; stroke-width: 6; stroke: #000000" x="200" y="40" width="1160" height="620" rx="0" ry="0"/>
     <g>
@@ -231,8 +231,20 @@
       </text>
     </g>
     <g>
-      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20 4 4 4 4 4; stroke: #000000" d="M 101.696 80 C 100.809,-214.226 2024.34,-145.591 2027.86,40.9541 C 2031.38,227.499 2257.49,165.068 2216.54,574.618"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 101.696 80 C 100.809,-214.226 2024.34,-145.591 2027.86,40.9541 C 2031.38,227.499 2257.49,165.068 2216.54,574.618"/>
       <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="2212.34,566.395 2216.32,576.843 2222.29,567.39 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 1686.03 558 C 1686.94,618.349 1981.53,712.387 1980.34,764.529"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1975.52,756.653 1980.29,766.765 1985.52,756.881 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 1482.76 660 C 1484.47,717.185 1694.57,786.5 1795.36,786.5"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1787.6,791.5 1797.6,786.5 1787.6,781.5 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 68.1272 80 C 59.5115,-20.7247 280.529,-110.13 475.965,-156.984 C 671.401,-203.838 2015.71,-108.923 2155.42,-19.4199 C 2295.12,70.0827 2734.79,771.88 2152.38,786.389"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="2160.01,781.197 2150.14,786.444 2160.26,791.194 "/>
     </g>
   </g>
 </svg>
