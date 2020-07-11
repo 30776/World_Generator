@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="118cm" height="34cm" viewBox="19 36 2351 667" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="118cm" height="49cm" viewBox="19 -121 2351 961" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g id="Background">
     <rect style="fill: none; stroke-opacity: 1; stroke-width: 6; stroke: #000000" x="200" y="40" width="1160" height="620" rx="0" ry="0"/>
     <g>
@@ -221,6 +221,18 @@
     <g>
       <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 2060 599 C 1964.5,669 1670.5,572 1596.17,637.055"/>
       <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1598.72,628.179 1594.49,638.527 1605.3,635.704 "/>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1806.2,769 2154.27,769 2128.8,839 1780.73,839 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1967.5" y="791.9">
+        <tspan x="1967.5" y="791.9">Some form of visualisation</tspan>
+        <tspan x="1967.5" y="807.9">(2d or 3d)</tspan>
+        <tspan x="1967.5" y="823.9">since the main graphics are probably quite ugly.</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20 4 4 4 4 4; stroke: #000000" d="M 101.696 80 C 100.809,-214.226 2024.34,-145.591 2027.86,40.9541 C 2031.38,227.499 2257.49,165.068 2216.54,574.618"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="2212.34,566.395 2216.32,576.843 2222.29,567.39 "/>
     </g>
   </g>
 </svg>
