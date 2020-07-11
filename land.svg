@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="62cm" height="19cm" viewBox="-2 -1 1235 370" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="14.5588,0 148.832,0 134.274,40 0,40 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="74.4162" y="23.9">
+        <tspan x="74.4162" y="23.9">Input heightmap</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="15.6507,80 140.951,80 125.301,123 0,123 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70.4757" y="105.4">
+        <tspan x="70.4757" y="105.4">Random seed</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 274.66 40 L 447.96,40 L 482.62,60 L 447.96,80 L 274.66,80 L 240,60 L 274.66,40z"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="361.31" y="56">
+        <tspan x="361.31" y="56">analasys of height</tspan>
+        <tspan x="361.31" y="72">resulting in categorisation</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 141.553 20 C 174.237,20 207.316,60 235.528,60"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="227.764,65 237.764,60 227.764,55 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 133.126 101.5 C 168.608,101.5 204.518,60 235.528,60"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="227.764,65 237.764,60 227.764,55 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="0" y="240" width="285.222" height="40" rx="0" ry="0"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="28.5222" y1="240" x2="28.5222" y2="280"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="244" x2="285.222" y2="244"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="156.872" y="266">
+        <tspan x="156.872" y="266">red: heat (range needs to be specified)</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="320" y="200" width="639.167" height="113.333" rx="0" ry="0"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="383.917" y1="200" x2="383.917" y2="313.333"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="320" y1="211.333" x2="959.167" y2="211.333"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="671.542" y="226.333">
+        <tspan x="671.542" y="226.333">Green: human activity, with set steps:</tspan>
+        <tspan x="671.542" y="242.333">0%: wild area</tspan>
+        <tspan x="671.542" y="258.333">25%: cultivated area (increased food production, reduced mineral production)</tspan>
+        <tspan x="671.542" y="274.333">50%: road or shipping route (reduced production)</tspan>
+        <tspan x="671.542" y="290.333">75%: mine or quarry (increased mineral production, no food production)</tspan>
+        <tspan x="671.542" y="306.333">100%: settled area (drastivcally reduced production)</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="980" y="200" width="250.833" height="166.667" rx="0" ry="0"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1005.08" y1="200" x2="1005.08" y2="366.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="980" y1="216.667" x2="1230.83" y2="216.667"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1117.96" y="239.667">
+        <tspan x="1117.96" y="239.667">Blue: water (humidity)</tspan>
+        <tspan x="1117.96" y="255.667">0%-15%: desert</tspan>
+        <tspan x="1117.96" y="271.667">15-25%: savannah (or similar)</tspan>
+        <tspan x="1117.96" y="287.667">25-45%: idk</tspan>
+        <tspan x="1117.96" y="303.667">45-60%: eorupean climate</tspan>
+        <tspan x="1117.96" y="319.667">60-70%: wetlands, rainforests, etc</tspan>
+        <tspan x="1117.96" y="335.667">70-85%: shore area</tspan>
+        <tspan x="1117.96" y="351.667">85-100%: body of water</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 317.985 80 C 320,140 140,180 142.417,235.532"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="137.084,227.993 142.514,237.766 147.074,227.558 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 361.31 80 C 360,180 640,100 639.602,195.528"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="634.634,187.743 639.593,197.764 644.634,187.785 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 404.635 80 C 420,140 1100,120 1105.11,195.538"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1099.6,188.13 1105.27,197.769 1109.58,187.454 "/>
+    </g>
+  </g>
+</svg>
